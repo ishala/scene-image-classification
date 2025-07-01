@@ -1,0 +1,2 @@
+# But do not ignore inference.python files in any folder
+*/inference.python
